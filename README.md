@@ -1,5 +1,5 @@
 # ResistiveCircuit
-A basic analyzer for purely resistive circuits.
+A purely resistive circuit is built for resistors and voltage sources. Determines the magnitude of current flowing through each node using various adjacency matrices, LU decomposition, and Kirchoff's current law.
 
 Partner: Paul Cleofas
 
